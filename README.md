@@ -60,6 +60,8 @@ Para responder às questões propostas no case, foram calculadas e analisadas as
 
 ### Evolução do crédito aprovado
 
+<img width="889" height="490" alt="image" src="https://github.com/user-attachments/assets/31392210-25b4-43f2-8cae-ba4d4a70e237" />
+
 O volume de crédito aprovado apresentou forte crescimento ao longo do período analisado, passando de aproximadamente **R$ 9 milhões no terceiro trimestre de 2024 para R$ 62,9 milhões no quarto trimestre de 2025**, aproximadamente sete vezes o valor observado no início do período.
 
 O crescimento se intensificou principalmente ao longo de 2025, com destaque para o período entre o segundo e o quarto trimestre.
