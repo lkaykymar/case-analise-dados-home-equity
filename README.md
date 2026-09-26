@@ -60,7 +60,9 @@ Para responder às questões propostas no case, foram calculadas e analisadas as
 
 ### Evolução do crédito aprovado
 
+
 <img width="986" height="490" alt="image" src="https://github.com/user-attachments/assets/ac7253e4-60db-4360-b9dc-d09fa104cfb3" />
+
 
 O volume de crédito aprovado apresentou forte crescimento ao longo do período analisado, passando de aproximadamente **R$ 9 milhões no terceiro trimestre de 2024 para R$ 62,9 milhões no quarto trimestre de 2025**, aproximadamente sete vezes o valor observado no início do período.
 
@@ -68,9 +70,12 @@ O crescimento se intensificou principalmente ao longo de 2025, com destaque para
 
 ### Crédito aprovado e fechamento
 
+
 <img width="986" height="490" alt="image" src="https://github.com/user-attachments/assets/8ec344d5-69e6-4c9e-b7a8-92c0fb1bb38c" />
 
+
 <img width="986" height="490" alt="image" src="https://github.com/user-attachments/assets/87603b28-7fc0-454e-8d2a-e940f8ac09b8" />
+
 
 Embora o percentual de crédito aprovado que chegou ao fechamento tenha apresentado redução, passando de **23% no Q3-2024 para 16% no Q4-2025**, o crescimento do volume aprovado também elevou o volume absoluto de crédito fechado, de aproximadamente **R$ 2,0 milhões para R$ 10,2 milhões**.
 
@@ -80,7 +85,9 @@ No Q4-2025, entretanto, o crédito aprovado continuou crescendo enquanto o volum
 
 ### Crédito por tipo de imóvel
 
+
 <img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/fcf8cea9-a388-43e8-aa07-e035936f6d9f" />
+
 
 O crédito aprovado esteve concentrado principalmente em **apartamentos e casas** durante todo o período analisado.
 
@@ -90,7 +97,9 @@ O crescimento do crédito aprovado observado ao longo de 2025 ocorreu principalm
 
 ### Fechamento por tipo de imóvel
 
+
 <img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/976a9efb-1de1-4ccb-9b27-ef6332512943" />
+
 
 Apesar de os apartamentos concentrarem o maior volume de crédito aprovado, as casas apresentaram um percentual de fechamento ligeiramente superior:
 
@@ -101,7 +110,9 @@ Imóveis comerciais e terrenos apresentaram percentuais de fechamento considerav
 
 ### Completude da informação sobre o tipo de imóvel
 
+
 <img width="984" height="490" alt="image" src="https://github.com/user-attachments/assets/c3a4474c-0ed6-4059-b854-00a319f67d12" />
+
 
 A quantidade de registros sem informação sobre o tipo de imóvel apresentou uma pequena alta no Q1-2025. A partir desse período, houve redução contínua, chegando a **zero no Q4-2025**.
 
@@ -109,7 +120,9 @@ Esse comportamento indica uma melhora na completude dos dados referentes ao tipo
 
 ### Volume de crédito por canal
 
+
 <img width="889" height="490" alt="image" src="https://github.com/user-attachments/assets/3e1c6665-5b2e-4585-bc77-cb4d36b40389" />
+
 
 O canal **Organic** concentrou o maior volume financeiro entre os canais analisados, com aproximadamente **R$ 126,1 milhões em crédito**.
 
@@ -117,7 +130,9 @@ O segundo maior volume foi observado no canal **Offline**, com aproximadamente *
 
 ### Conversão por canal
 
+
 <img width="889" height="490" alt="image" src="https://github.com/user-attachments/assets/4fa32477-9523-4a08-8aed-d61c7d9268bb" />
+
 
 Os canais apresentaram diferenças relevantes entre o volume de crédito aprovado e a proporção desse volume que chegou ao fechamento.
 
